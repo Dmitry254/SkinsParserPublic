@@ -1,0 +1,40 @@
+{'price': '260.00', 'buy_order': 357.58, 'avg_price': '404.211364', 'popularity_7d': '22', 'market_hash_name': 'Dual Berettas | Twin Turbo (Field-Tested)', 'ru_name': 'Dual Berettas | Турбодвойники (После полевых испытаний)', 'ru_rarity': 'Засекреченное', 'ru_quality': 'После полевых испытаний', 'text_color': 'D2D2D2', 'bg_color': ''}
+Dual Berettas | Турбодвойники (После полевых испытаний), Цена: 260.00, Средняя цена: 404.211364, Запрос:357.58
+{'price': '71.59', 'buy_order': 70.31, 'avg_price': '93.097500', 'popularity_7d': '28', 'market_hash_name': 'StatTrak™ FAMAS | Survivor Z (Minimal Wear)', 'ru_name': 'StatTrak™ FAMAS | Выживший (Немного поношенное)', 'ru_rarity': 'Армейское качество', 'ru_quality': 'Немного поношенное', 'text_color': 'CF6A32', 'bg_color': ''}
+StatTrak™ FAMAS | Выживший (Немного поношенное), Цена: 71.59, Средняя цена: 93.097500, Запрос:70.31
+{'price': '142.42', 'buy_order': 139.94, 'avg_price': '185.243558', 'popularity_7d': '104', 'market_hash_name': 'AUG | Syd Mead (Well-Worn)', 'ru_name': 'AUG | Syd Mead (Поношенное)', 'ru_rarity': 'Засекреченное', 'ru_quality': 'Поношенное', 'text_color': 'D2D2D2', 'bg_color': ''}
+AUG | Syd Mead (Поношенное), Цена: 142.42, Средняя цена: 185.243558, Запрос:139.94
+{'price': '142.42', 'buy_order': 139.96, 'avg_price': '185.243558', 'popularity_7d': '104', 'market_hash_name': 'AUG | Syd Mead (Well-Worn)', 'ru_name': 'AUG | Syd Mead (Поношенное)', 'ru_rarity': 'Засекреченное', 'ru_quality': 'Поношенное', 'text_color': 'D2D2D2', 'bg_color': ''}
+AUG | Syd Mead (Поношенное), Цена: 142.42, Средняя цена: 185.243558, Запрос:139.96
+{'price': '141.41', 'buy_order': 140.15, 'avg_price': '185.243558', 'popularity_7d': '104', 'market_hash_name': 'AUG | Syd Mead (Well-Worn)', 'ru_name': 'AUG | Syd Mead (Поношенное)', 'ru_rarity': 'Засекреченное', 'ru_quality': 'Поношенное', 'text_color': 'D2D2D2', 'bg_color': ''}
+AUG | Syd Mead (Поношенное), Цена: 141.41, Средняя цена: 185.243558, Запрос:140.15
+{'price': '75.00', 'buy_order': 79.78, 'avg_price': '103.575646', 'popularity_7d': '209', 'market_hash_name': 'USP-S | Flashback (Well-Worn)', 'ru_name': 'USP-S | Взгляд в прошлое (Поношенное)', 'ru_rarity': 'Запрещенное', 'ru_quality': 'Поношенное', 'text_color': 'D2D2D2', 'bg_color': ''}
+USP-S | Взгляд в прошлое (Поношенное), Цена: 75.00, Средняя цена: 103.575646, Запрос:79.78
+{'price': '55.25', 'buy_order': 57.1, 'avg_price': '72.752564', 'popularity_7d': '39', 'market_hash_name': 'Negev | Power Loader (Battle-Scarred)', 'ru_name': 'Negev | Погрузчик (Закаленное в боях)', 'ru_rarity': 'Запрещенное', 'ru_quality': 'Закаленное в боях', 'text_color': 'D2D2D2', 'bg_color': ''}
+Negev | Погрузчик (Закаленное в боях), Цена: 55.25, Средняя цена: 72.752564, Запрос:57.1
+{'price': '70.00', 'buy_order': 68.08, 'avg_price': '91.092560', 'popularity_7d': '457', 'market_hash_name': 'AWP | Capillary (Minimal Wear)', 'ru_name': 'AWP | Капилляры (Немного поношенное)', 'ru_rarity': 'Армейское качество', 'ru_quality': 'Немного поношенное', 'text_color': 'D2D2D2', 'bg_color': ''}
+AWP | Капилляры (Немного поношенное), Цена: 70.00, Средняя цена: 91.092560, Запрос:68.08
+{'price': '59.20', 'buy_order': 40.05, 'avg_price': '86.243125', 'popularity_7d': '16', 'market_hash_name': 'StatTrak™ PP-Bizon | Embargo (Battle-Scarred)', 'ru_name': 'StatTrak™ ПП-19 Бизон | Эмбарго (Закаленное в боях)', 'ru_rarity': 'Запрещённое', 'ru_quality': 'Закаленное в боях', 'text_color': 'CF6A32', 'bg_color': ''}
+StatTrak™ ПП-19 Бизон | Эмбарго (Закаленное в боях), Цена: 59.20, Средняя цена: 86.243125, Запрос:40.05
+{'price': '136.37', 'buy_order': 136.4, 'avg_price': '197.548511', 'popularity_7d': '94', 'market_hash_name': 'USP-S | Stainless (Battle-Scarred)', 'ru_name': 'USP-S | Нержавейка (Закаленное в боях)', 'ru_rarity': 'Армейское качество', 'ru_quality': 'Закаленное в боях', 'text_color': 'D2D2D2', 'bg_color': ''}
+USP-S | Нержавейка (Закаленное в боях), Цена: 136.37, Средняя цена: 197.548511, Запрос:136.4
+{'price': '61.25', 'buy_order': 61.25, 'avg_price': '86.962571', 'popularity_7d': '70', 'market_hash_name': 'CZ75-Auto | Pole Position (Factory New)', 'ru_name': 'CZ75-Auto | Поул-позиция (Прямо с завода)', 'ru_rarity': 'Запрещенное', 'ru_quality': 'Прямо с завода', 'text_color': 'D2D2D2', 'bg_color': ''}
+CZ75-Auto | Поул-позиция (Прямо с завода), Цена: 61.25, Средняя цена: 86.962571, Запрос:61.25
+{'price': '63.05', 'buy_order': 63.03, 'avg_price': '89.390356', 'popularity_7d': '477', 'market_hash_name': 'AWP | Capillary (Minimal Wear)', 'ru_name': 'AWP | Капилляры (Немного поношенное)', 'ru_rarity': 'Армейское качество', 'ru_quality': 'Немного поношенное', 'text_color': 'D2D2D2', 'bg_color': ''}
+AWP | Капилляры (Немного поношенное), Цена: 63.05, Средняя цена: 89.390356, Запрос:63.03
+{'price': '63.05', 'buy_order': 63.02, 'avg_price': '89.178810', 'popularity_7d': '479', 'market_hash_name': 'AWP | Capillary (Minimal Wear)', 'ru_name': 'AWP | Капилляры (Немного поношенное)', 'ru_rarity': 'Армейское качество', 'ru_quality': 'Немного поношенное', 'text_color': 'D2D2D2', 'bg_color': ''}
+AWP | Капилляры (Немного поношенное), Цена: 63.05, Средняя цена: 89.178810, Запрос:63.02
+{'price': '60.00', 'buy_order': 37.38, 'avg_price': '93.888000', 'popularity_7d': '25', 'market_hash_name': 'M4A1-S | Flashback (Minimal Wear)', 'ru_name': 'M4A1-S | Взгляд в прошлое (Немного поношенное)', 'ru_rarity': 'Запрещённое', 'ru_quality': 'Немного поношенное', 'text_color': 'D2D2D2', 'bg_color': ''}
+M4A1-S | Взгляд в прошлое (Немного поношенное), Цена: 60.00, Средняя цена: 93.888000, Запрос:37.38
+{'price': '62.00', 'buy_order': 37.38, 'avg_price': '93.888000', 'popularity_7d': '25', 'market_hash_name': 'M4A1-S | Flashback (Minimal Wear)', 'ru_name': 'M4A1-S | Взгляд в прошлое (Немного поношенное)', 'ru_rarity': 'Запрещённое', 'ru_quality': 'Немного поношенное', 'text_color': 'D2D2D2', 'bg_color': ''}
+M4A1-S | Взгляд в прошлое (Немного поношенное), Цена: 62.00, Средняя цена: 93.888000, Запрос:37.38
+{'price': '103.85', 'buy_order': 103.01, 'avg_price': '144.325128', 'popularity_7d': '39', 'market_hash_name': 'StatTrak™ P2000 | Acid Etched (Well-Worn)', 'ru_name': 'StatTrak™ P2000 | Протравленный (Поношенное)', 'ru_rarity': 'Запрещённое', 'ru_quality': 'Поношенное', 'text_color': 'CF6A32', 'bg_color': ''}
+StatTrak™ P2000 | Протравленный (Поношенное), Цена: 103.85, Средняя цена: 144.325128, Запрос:103.01
+{'price': '53.00', 'buy_order': 48.25, 'avg_price': '76.270185', 'popularity_7d': '325', 'market_hash_name': 'SSG 08 | Acid Fade (Factory New)', 'ru_name': 'SSG 08 | Кислотный градиент (Прямо с завода)', 'ru_rarity': 'Армейское качество', 'ru_quality': 'Прямо с завода', 'text_color': 'D2D2D2', 'bg_color': ''}
+SSG 08 | Кислотный градиент (Прямо с завода), Цена: 53.00, Средняя цена: 76.270185, Запрос:48.25
+{'price': '52.43', 'buy_order': 51.93, 'avg_price': '70.651429', 'popularity_7d': '28', 'market_hash_name': 'PP-Bizon | Fuel Rod (Field-Tested)', 'ru_name': 'ПП-19 Бизон | Fuel Rod (После полевых испытаний)', 'ru_rarity': 'Запрещенное', 'ru_quality': 'После полевых испытаний', 'text_color': 'D2D2D2', 'bg_color': ''}
+ПП-19 Бизон | Fuel Rod (После полевых испытаний), Цена: 52.43, Средняя цена: 70.651429, Запрос:51.93
+{'price': '90.00', 'buy_order': 119.57, 'avg_price': '124.719835', 'popularity_7d': '121', 'market_hash_name': 'Huntsman Weapon Case', 'ru_name': 'Охотничий оружейный кейс', 'ru_rarity': 'базового класса', 'ru_quality': '', 'text_color': 'D2D2D2', 'bg_color': ''}
+Охотничий оружейный кейс, Цена: 90.00, Средняя цена: 124.719835, Запрос:119.57
+{'price': '137.29', 'buy_order': 147.69, 'avg_price': '181.355000', 'popularity_7d': '68', 'market_hash_name': 'P90 | Shallow Grave (Minimal Wear)', 'ru_name': 'P90 | Shallow Grave (Немного поношенное)', 'ru_rarity': 'Засекреченное', 'ru_quality': 'Немного поношенное', 'text_color': 'D2D2D2', 'bg_color': ''}
+P90 | Shallow Grave (Немного поношенное), Цена: 137.29, Средняя цена: 181.355000, Запрос:147.69
